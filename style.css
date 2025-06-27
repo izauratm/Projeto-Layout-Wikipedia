@@ -1,0 +1,177 @@
+ 
+/* CORPO PRINCIPAL */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+  background-color: #f9f9f9;
+  color: #333;
+  display: grid;
+  grid-template-areas:
+    "nav header"
+    "nav main"
+    "nav footer";
+  grid-template-columns: 200px 1fr;
+  min-height: 100vh;
+}
+
+/* CABEÇALHO */
+header {
+  grid-area: header;
+  background-color: #7f868d;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+/* Navegação lateral esquerda */
+nav {
+  grid-area: nav;
+  background-color: #e4dddd;
+  padding: 1rem;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav a {
+  text-decoration: none;
+  color: #555453;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+/* Conteúdo PRINCIPAL + âncoras */
+main {
+  grid-area: main;
+  display: flex;
+  gap: 1rem;
+  padding: 1rem;
+  background-color: #fff;
+  flex-direction: row;
+  text-align: left;
+}
+
+/* Artigo (conteúdo principal) */
+article {
+  flex: 1;
+}
+
+aside h2 {
+  margin-bottom: 0.5rem;
+}
+ 
+.indice {
+  flex: 0 0 250px;
+  background-color: #e4dddd;
+  padding: 15px;
+  border-radius: 5px;
+  align-self: flex-start;
+  text-align: left;
+}
+
+/* RESPONSIVIDADE EM TELAS */
+@media (max-width: 768px) {
+  body {
+    grid-template-areas:
+      "header"
+      "main"
+      "footer";
+    grid-template-columns: 1fr;
+  }
+}
+
+article section {
+  margin-bottom: 2rem;
+}
+
+/* IMAGENS E VÍDEOS */
+figure {
+  display: block;
+  justify-content: center;
+  text-align: center;  
+  margin: 1rem auto;
+}
+
+figure img {
+  display: block;
+  margin: 0 auto;
+  width: 300px;  
+  height: 195px;   
+}
+
+figcaption {  
+  font-style: italic;
+  font-size: 1rem;
+  color: #555;
+}
+
+.video-frame {
+  width: 100%;
+  max-width: 560px;
+  height:auto;           
+  outline: none; 
+  border: none;
+  border-radius: 8px;
+  display: block;  
+  margin: 0 auto;  
+}
+
+.video-frame:focus {
+  outline: 3px solid #66b2ff;  
+  outline-offset: 4px;  
+}
+
+/*TABELAS*/
+table{
+  margin:0 auto;
+  border-collapse: collapse; 
+  width: fit-content; 
+  text-align: center;
+  
+}
+/*cor fixa*/
+ table tr:nth-child(even) {
+    background-color: rgb(209, 209, 224);
+      
+}
+/*cor ao passar o mouse*/
+ table tr:hover td {
+    background-color: rgb(130, 134, 136);  
+}
+table, th, td {
+  border: 1px solid #ccc;
+  padding: 0.5rem;
+}
+
+caption {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+   ;
+}
+
+/* RODAPÉ E LINKS*/
+footer,
+.anchors {
+  background-color: rgb(214, 209, 209);  
+  color: black;
+  text-align: center;
+  padding: 1rem;
+}
+
+.anchors a {
+  color: #66b2ff; 
+  text-decoration: underline;   
+
+}
+
+.anchors a:visited {
+  color: #a0c8ff;   
+}
+
+.anchors a:hover,
+.anchors a:focus {
+  color: #ffffff;   
+  background-color: #3f4c59;
+  outline: 2px dashed #ffffff;   
+}
