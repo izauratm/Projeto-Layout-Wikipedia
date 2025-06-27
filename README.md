@@ -1,9 +1,9 @@
 # Projeto Trilha HTML Módulo 3 / Project Track HTML 3 
 
 ##  ![marketing](https://github.com/user-attachments/assets/427265f3-e3fc-4b0b-a74c-af0479de6693) Objetivo
-Recriar um novo layout moderno para o site www.wikipedia.org, aplicando os conhecimentos adquiridos no curso Bootcamp Santander 2025 Front-End Java Script da www.dio.me sobre semântica e acessibilidade.
+Recriar um novo layout moderno para o site Wikipédia, aplicando os conhecimentos adquiridos no curso Bootcamp Santander 2025 Front-End Java Script da Dio.me sobre semântica e acessibilidade.
 ## ![marketing](https://github.com/user-attachments/assets/427265f3-e3fc-4b0b-a74c-af0479de6693) Objective
-Recreate a new modern layout for the website www.wikipedia.org, applying the knowledge acquired in the Bootcamp Santander 2025 Front-End JavaScript course from www.dio.me, focusing on semantics and accessibility.
+Recreate a new modern layout for the website Wikipédia, applying the knowledge acquired in the Bootcamp Santander 2025 Front-End JavaScript course from Dio.me, focusing on semantics and accessibility.
 
  ##
 ![estudante-on-line](https://github.com/user-attachments/assets/641be71f-3c08-4154-8491-0969cec4d4b5) Aulas Trabalhadas
@@ -39,7 +39,8 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request 
 Contributions are welcome! Feel free to open a pull request or report issues.  
 
 ### Links Úteis e Referências: 
-- https://www.flaticon.com/br 
+-  www.dio.me
+- www.flaticon.com
 - [Download do NVDA](https://www.nvaccess.org/download/)
 - www.wikipedia.org
 - www.youtube.com
