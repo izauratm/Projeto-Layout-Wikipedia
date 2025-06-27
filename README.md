@@ -6,7 +6,8 @@ Recriar um novo layout moderno para o site Wikipédia, aplicando os conhecimento
 Recreate a new modern layout for the website Wikipédia, applying the knowledge acquired in the Bootcamp Santander 2025 Front-End JavaScript course from Dio.me, focusing on semantics and accessibility.
 
  ##
-![estudante-on-line](https://github.com/user-attachments/assets/641be71f-3c08-4154-8491-0969cec4d4b5) Aulas Trabalhadas
+ ![estudante-on-line](https://github.com/user-attachments/assets/b4214436-22d0-4153-9f4e-75497979ba3d)
+ Aulas Trabalhadas
 * Introdução ao HTML na Prática
 * Trabalhando com Formulários em HTML
 * Estruturando o HTML + Formatações
@@ -14,7 +15,7 @@ Recreate a new modern layout for the website Wikipédia, applying the knowledge 
 * Criando Tabelas com HTML/CSS
 * Entendendo HTML Semântico 
 
-## ![estudante-on-line](https://github.com/user-attachments/assets/641be71f-3c08-4154-8491-0969cec4d4b5) Lessons Completed
+## ![estudante-on-line](https://github.com/user-attachments/assets/82482a78-0dd5-4edc-93b9-94916e16ad1f) Lessons Completed
 * Introduction to HTML in Practice  
 * Working with HTML Forms  
 * Structuring HTML + Formatting  
@@ -23,19 +24,19 @@ Recreate a new modern layout for the website Wikipédia, applying the knowledge 
 * Understanding Semantic HTML
 
 
-## ![tecnologia](https://github.com/user-attachments/assets/95daa28f-96bd-46f1-8140-bdb26309735b) Tecnologias / Technologies
+## ![tecnologia](https://github.com/user-attachments/assets/b8ed55c1-a49c-4b8f-aca5-90000217d1e6) Tecnologias / Technologies
 - Visual Studio Code
 - HTML
 - CSS
-## ![estude](https://github.com/user-attachments/assets/b2eddcd1-8f8f-4fd7-91d5-b89be4e28991) Desenvolvedor
+## ![estude](https://github.com/user-attachments/assets/f2f58f4e-c422-49af-8d03-67dfa175a54a) Desenvolvedor
 * Izaura TM - responsável pelo projeto.
-## ![estude](https://github.com/user-attachments/assets/b2eddcd1-8f8f-4fd7-91d5-b89be4e28991) Developer
+## ![estude](https://github.com/user-attachments/assets/01dbef2e-88cd-445d-88c4-96fc29c9a45c) Developer
 * Izaura TM - person responsible for the project.
 
-## ![estudar](https://github.com/user-attachments/assets/a98765ba-ad4e-434d-9de9-f8b40ff95011) Contribuições
+## ![estudar](https://github.com/user-attachments/assets/f6c093a1-7bf0-4bc9-978c-ee9f542de545) Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request ou relatar problemas. 
  
-## ![estudar](https://github.com/user-attachments/assets/a98765ba-ad4e-434d-9de9-f8b40ff95011) Contributions
+## ![estudar](https://github.com/user-attachments/assets/669a01dd-8cdb-4fa9-aeee-5526f14ed045) Contributions
 Contributions are welcome! Feel free to open a pull request or report issues.  
 
 ### Links Úteis e Referências: 
