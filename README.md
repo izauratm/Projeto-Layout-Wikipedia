@@ -46,4 +46,22 @@ Contributions are welcome! Feel free to open a pull request or report issues.
 - www.wikipedia.org
 - www.youtube.com
 
+## 📝 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+> Este projeto é apenas para fins educacionais e não possui nenhuma afiliação com o site Wikipédia.  
+> Todos os direitos reservados ao Wikipédia.
+
+## 📝 License
+
+This project is under the MIT license. See the [LICENSE](LICENSE) file for details.
+
+---
+
+> This project is for educational purposes only and has no affiliation with the site Wikipédia.  
+> All rights reserved to Wikipédia. 
+
   
